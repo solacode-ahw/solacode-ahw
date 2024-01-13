@@ -4,4 +4,4 @@ One of my idols is [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam) an
 
 #### My Personal Projects
 
-* [Quick Planner](https://solacode-ahw.github.io/quick-planner/)
+* [Quick Planner](https://github.com/solacode-ahw/quick-planner)
