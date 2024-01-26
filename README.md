@@ -5,3 +5,8 @@ One of my idols is [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam) an
 #### My Personal Projects
 
 * [Quick Planner](https://github.com/solacode-ahw/quick-planner)
+
+
+#### Contact Me
+* [Telegram](https://t.me/solacode_ahw)
+* [Whatsapp](https://wa.me/message/XHUDG5QORONGL1)
