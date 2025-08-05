@@ -4,7 +4,7 @@ One of my idols is [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam) an
 
 #### My Personal Projects
 
-* [PLANLY](https://github.com/solacode-ahw/planly)
+* [PLANLY](https://github.com/bahar-paydar/planly)
 
 
 #### Contact Me
