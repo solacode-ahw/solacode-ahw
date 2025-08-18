@@ -10,3 +10,4 @@ One of my idols is [Omar Khayyam](https://en.wikipedia.org/wiki/Omar_Khayyam) an
 #### Contact Me
 * [Telegram](https://t.me/bahar_paydar)
 * [Home Page](https://bahar-paydar.github.io)
+* [LinkedIn](https://linkedin.com/in/bahar-paydar)
